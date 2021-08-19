@@ -3,9 +3,9 @@ import os
 import math
 from song import Note
 
-FILENAME = "D:\\Users\\legoh\\Music\\midi\\Sea_Shanty2.mid"
-OUTPUT_FOLDER = "D:\\Users\\legoh\\Documents\\3D\\3D Printing\\"
-OUTPUT_NAME = 'SeaShanty2-'
+FILENAME = "song-maker.mid"
+OUTPUT_FOLDER = ""
+OUTPUT_NAME = 'silver'
 
 # MIDI takes a number from 0 to 127 to represent the notes for the following frequencies
 NOTES = [8.18, 8.66, 9.18, 9.72, 10.30, 10.91, 11.56, 12.25, 12.98, 13.75, 14.57, 15.43, 16.35,
